@@ -2,7 +2,7 @@
 Tools for academic writing.
 
 ## ["doi2LaTex"](https://github.com/collectorhamster/writing-tools/blob/main/doi2LaTex.jl): A Julia script that automatically generates LaTeX-formatted references from a list of DOIs.
-How to use this script: create file named *"doi.txt"* and past DOIs of references into it. Ensure that *"doi.txt"* and *"doi2LaTex.jl"* are in the same folder. Run 
+How to use this script: create a file named *"doi.txt"* and past DOIs of references into it. Ensure that *"doi.txt"* and *"doi2LaTex.jl"* are in the same folder. Run 
 ```bash
 julia doi2LaTex.jl
 ```
