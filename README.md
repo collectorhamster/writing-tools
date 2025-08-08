@@ -10,7 +10,7 @@ How to use this script:
 ```bash
 julia doi2LaTex.jl
 ```
-
-and you will see a file called *"citfm.txt"*, which contains some LaTex codes. Copy and past these codes into your `*.tex` file, you can get references with standard format.
+and you will see a file called *"citfm.txt"*, which contains some LaTex codes. 
+4. Copy and past these codes into your `*.tex` file, you can get references with standard format.
 
 `HTTP.jl` and `JSON3.jl` are needed. `distributed.jl` should be installed because there are parallel processes. Please note that it is still recommended to check the format and correct it if necessary.
