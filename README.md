@@ -6,7 +6,10 @@ How to use this script:
 
 1. Create a file named `doi.txt` and place it in the same directory as `doi2LaTeX.jl`.
 2. Paste the desired DOIs into the file (typically one per line).
-3. Run ```julia doi2LaTex.jl```bash
+3. Run
+```bash
+julia doi2LaTex.jl
+```
 and you will see a file called *"citfm.txt"*, which contains some LaTex codes. 
 4. Copy and past these codes into your `*.tex` file, you can get references with standard format.
 
