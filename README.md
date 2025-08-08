@@ -10,6 +10,6 @@ How to use this script:
     ```bash
     julia doi2LaTeX.jl
     ```
-4. Copy and past these codes into your `*.tex` file, you can get references with standard format.
+4. Copy and past these codes into your `*.tex` file then you can get references with standard format.
 
 `HTTP.jl` and `JSON3.jl` are needed. `distributed.jl` should be installed because there are parallel processes. Please note that it is still recommended to check the format and correct it if necessary.
